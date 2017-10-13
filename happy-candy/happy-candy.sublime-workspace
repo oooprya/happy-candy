@@ -1,0 +1,935 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"in",
+				"innerHTML"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"cosol",
+				"console.\tconsole.log()"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"innr",
+				"innerHTML"
+			],
+			[
+				"te",
+				"test\tQUnit test"
+			],
+			[
+				"cons",
+				"console.\tconsole.log()"
+			],
+			[
+				"fa",
+				"factorial"
+			],
+			[
+				"v",
+				"var"
+			],
+			[
+				"n",
+				"number"
+			],
+			[
+				"for",
+				"for\tfor (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"e",
+				"else"
+			],
+			[
+				"a",
+				"alert"
+			],
+			[
+				"na",
+				"userName"
+			],
+			[
+				"if",
+				"if\tif"
+			],
+			[
+				"to",
+				"toLowerCase\t(js.html)"
+			],
+			[
+				"al",
+				"alert(\"Ваши\t(js.html)"
+			],
+			[
+				"po",
+				"pos"
+			],
+			[
+				"co",
+				"console.\tconsole.log()"
+			],
+			[
+				"i",
+				"if\tif"
+			],
+			[
+				"f",
+				"for\tfor (…) {…}"
+			],
+			[
+				"s",
+				"script\tTag"
+			],
+			[
+				"lis",
+				"list-style-position"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"b",
+				"inline-block"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"bor",
+				"border-left"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"ob",
+				"object-position"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"or",
+				"ori-l\torientation: landscape;"
+			],
+			[
+				"tran",
+				"transition-delay"
+			],
+			[
+				"t",
+				"title\tAttr"
+			],
+			[
+				"m",
+				"mr\tmargin-right"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"text-o",
+				"text-overflow"
+			],
+			[
+				"let",
+				"left"
+			],
+			[
+				"tra",
+				"transition-property"
+			],
+			[
+				"tr",
+				"trsde\ttransition-delay: ${1:time};"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"c",
+				"contain"
+			],
+			[
+				"bag",
+				"background-image"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"ori",
+				"ori-p\torientation: portrait;"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"cu",
+				"cur\tcursor: ${pointer};"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"bg",
+				"bg-port.jpg\tw:600 h:1024"
+			],
+			[
+				"st",
+				"strong\tTag"
+			],
+			[
+				"fl",
+				"fl-l\tfloat: left;"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"bore",
+				"border"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"logo",
+				"logo-TU2016"
+			],
+			[
+				"sa",
+				"Samsung"
+			],
+			[
+				"m-r",
+				"border-bottom-left-radius"
+			],
+			[
+				"mx",
+				"max-width"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"spe",
+				"white-space"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"o",
+				"overflow"
+			],
+			[
+				"len",
+				"line-height"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"boe",
+				"border-radius"
+			],
+			[
+				"fot",
+				"font-size"
+			],
+			[
+				"fos",
+				"font-size"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"ha",
+				"header\tTag"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"ex",
+				"exit"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"sr",
+				"strong\tTag"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"list-style",
+				"list-style-image"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"li",
+				"link\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "js",
+		"selected_items":
+		[
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"if",
+				"Snippet: if"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"po",
+				"Package Control: Install Package"
+			],
+			[
+				"s",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"",
+				"ANF: Copy Current File"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"S",
+				"SFTP: Browse Server…"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"sf",
+				"SFTP: Browse Server…"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"add",
+				"Git: Quick Add"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"P",
+				"Package Control: Install Package"
+			],
+			[
+				"E",
+				"Emmet: Select Previous Item"
+			],
+			[
+				"V",
+				"View In Browser"
+			]
+		],
+		"width": 387.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Юля/Dropbox/Урок JS/happy-candy",
+		"/C/Users/Юля/Dropbox/Урок JS/happy-candy/js"
+	],
+	"file_history":
+	[
+		"/C/Users/Юля/Dropbox/Урок JS/happy-candy/happy-candy.html",
+		"/C/Users/Юля/Dropbox/Урок JS/happy-candy/js/main.js",
+		"/C/Users/Юля/Dropbox/Урок JS/js.html",
+		"/C/Users/Юля/Dropbox/Урок JS/lesson1.html",
+		"/F/js/lesson1.html",
+		"/F/js/js.js",
+		"/C/Users/Юля/floobits/welcome.md",
+		"/C/Users/Юля/Dropbox/Урок JS/alert.js",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1503504321/sail-races/var/www/html/web/site/css/main.css",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1503504741/sail-races/var/www/html/web/site/css/event.css",
+		"/C/Users/Юля/Dropbox/hotel-tv/hotel-TV.html",
+		"/C/Users/Юля/Dropbox/hotel-tv/css/style.css",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1499356054/sail-races/var/www/html/web/site/css/main.css",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1499357183/sail-races/var/www/html/frontend/modules/my/views/default/_yacht_form.php",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1499352762/sail-races/var/www/html/web/site/css/main.css",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1499154833/sail-races/var/www/html/manager/web/css/site.css",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1499154783/sail-races/var/www/html/web/site/css/main.css",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1498653785/sail-races/var/www/html/frontend/views/layouts/main.php",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1498582315/sail-races/var/www/html/web/site/css/main.css",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1498380640/sail-races/var/www/html/web/site/css/main.css",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1498381089/sail-races/var/www/html/web/site/css/event.css",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1497989880/sail-races/var/www/html/manager/web/css/statement.css",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1497989916/sail-races/var/www/html/manager/modules/regatta/views/yachts/doc/zayava.php",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1497984354/sail-races/var/www/html/manager/modules/regatta/views/yachts/doc/zayava.php",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1497546413/sail-races/var/www/html/frontend/views/layouts/main.php",
+		"/C/Users/Юля/Dropbox/sail-races/doc_html/doc_html.html",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1497068336/sail-races/var/www/html/manager/web/css/statement.css",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1497067843/sail-races/var/www/html/manager/modules/regatta/views/yachts/doc/zayava.php",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1497030715/sail-races/var/www/html/manager/web/css/statement.css",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1497029503/sail-races/var/www/html/manager/modules/regatta/views/yachts/doc/zayava.php",
+		"/C/Users/Юля/Dropbox/WORK/Доступ заблокирован.html",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1496856622/sail-races/var/www/html/manager/web/css/site.css",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1496855210/sail-races/var/www/html/manager/views/site/index.php",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1496857798/sail-races/var/www/html/manager/views/layouts/left.php",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1496162552/sail-races/var/www/html/web/site/css/event.css",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1496168058/sail-races/var/www/html/manager/web/css/site.css",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1496168032/sail-races/var/www/html/manager/web/css/jquery-ui.min.css",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1496077609/sail-races/var/www/html/manager/web/css/site.css",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1495991526/sail-races/var/www/html/manager/modules/regatta/views/default/view.php",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1495825558/sail-races/var/www/html/web/css/race/style.css",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1495822661/sail-races/var/www/html/web/css/race/style.css",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1495816868/sail-races/var/www/html/frontend/modules/tracking/views/default/_main.php",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1495817257/sail-races/var/www/html/web/css/race/style.css",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1495738349/sail-races/var/www/html/web/site/css/main.css",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1495652996/sail-races/var/www/html/frontend/views/site/privacy.php",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1495390419/sail-races/var/www/html/web/site/css/main.css",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1495391819/sail-races/var/www/html/web/site/css/event.css",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1495043961/sail-races/var/www/html/web/site/css/main.css",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1495043907/sail-races/var/www/html/web/site/css/event.css",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1494958813/sail-races/var/www/html/frontend/modules/my/views/default/joinConfirm.php",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1494958906/sail-races/var/www/html/frontend/modules/my/views/default/joinExists.php",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1494952753/sail-races/var/www/html/web/site/css/grid.css",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1494953626/sail-races/var/www/html/web/site/css/event.css",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1494952511/sail-races/var/www/html/web/site/css/main.css",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1494954600/sail-races/var/www/html/frontend/modules/my/views/default/join.php",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1494868084/sail-races/var/www/html/web/site/css/main.css",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1494871995/sail-races/var/www/html/web/site/css/event.css",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1494518758/sail-races/var/www/html/web/site/css/main.css",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1494530125/sail-races/var/www/html/web/site/css/event.css",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1494526911/sail-races/var/www/html/frontend/modules/my/views/default/_yacht_form.php",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1494524887/sail-races/var/www/html/frontend/modules/my/views/default/_yacht_form.php",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1494522769/sail-races/var/www/html/frontend/modules/my/views/default/_yacht_form.php",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1494520900/sail-races/var/www/html/frontend/modules/my/views/default/_yacht_form.php",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1494520987/sail-races/var/www/html/frontend/modules/my/views/default/yacht.php",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1494439485/sail-races/var/www/html/manager/modules/regatta/views/default/view.php",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1494439058/sail-races/var/www/html/manager/web/css/site.css",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1494345170/sail-races/var/www/html/web/site/css/main.css",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1494345885/sail-races/var/www/html/web/site/css/event.css",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1494340448/sail-races/var/www/html/manager/modules/regatta/views/default/view.php",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1494339748/sail-races/var/www/html/manager/web/css/site.css",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1494339713/sail-races/var/www/html/manager/web/css/jquery-ui.min.css",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1494235607/sail-races/var/www/html/manager/modules/regatta/views/default/view.php",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1494235463/sail-races/var/www/html/manager/web/css/site.css",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1494225579/sail-races/var/www/html/manager/web/css/site.css",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1494225870/sail-races/var/www/html/manager/modules/regatta/views/default/view.php",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1494179503/sail-races/var/www/html/web/site/css/main.css",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1494175721/sail-races/var/www/html/manager/modules/regatta/views/default/view.php",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1494177876/sail-races/var/www/html/web/site/css/event.css",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1494177855/sail-races/var/www/html/manager/web/css/site.css",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1494174291/sail-races/var/www/html/web/css/race/style.css",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1494084001/sail-races/var/www/html/web/site/css/main.css",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1494048304/sail-races/var/www/html/web/site/css/main.css",
+		"/C/Users/Юля/AppData/Local/Temp/sublime-sftp-browse-1494048209/sail-races/var/www/html/web/site/css/main.css",
+		"/C/Users/Юля/Dropbox/sail-races/event.css",
+		"/C/Users/Юля/Dropbox/sail-races/main.css",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1494012508/sail-races/var/www/html/web/site/css/event.css",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1494012170/sail-races/var/www/html/web/site/css/main.css",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1493492624/sail-races/var/www/html/web/site/css/main.css",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1493492674/sail-races/var/www/html/web/site/css/event.css",
+		"/C/users/c559~1/appdata/local/temp/sublime-sftp-browse-1491675723/sail-races/var/www/html/web/site/css/main.css",
+		"/C/Users/Юля/Dropbox/Sublime Text Build 3065 x64/Data/Packages/User/sftp_servers/sail-races",
+		"/C/users/oooprya/appdata/local/temp/sublime-sftp-browse-1491470088/hoteltv/var/www/html/hotels/backend/web/css/site.css",
+		"/C/users/oooprya/appdata/local/temp/sublime-sftp-browse-1491478301/oleg/var/www/html/dev.tenet.ua/sites/all/themes/tenet_original/css/style.css",
+		"/D/BORIS_WORK/sfu-odessa/HTML/css/main.css",
+		"/D/BORIS_WORK/sfu-odessa/HTML/event.html",
+		"/C/users/oooprya/appdata/local/temp/sublime-sftp-browse-1491399537/webfox/images/javascript/QUEUE/todolist.css",
+		"/C/users/oooprya/appdata/local/temp/sublime-sftp-browse-1491291934/DCA/var/www/html/dev.dca.com.ua/web/css/style.css",
+		"/C/users/oooprya/appdata/local/temp/sublime-sftp-browse-1491222449/oleg/var/www/html/wifi/css/private/compote/2017-04-03/all_style.css",
+		"/C/users/oooprya/appdata/local/temp/sublime-sftp-browse-1491228299/DCA/var/www/html/dev.dca.com.ua/web/css/style.css",
+		"/D/BORIS_WORK/Wi-Fi/Стр авторизации/Реста/Дача/05/index.html",
+		"/D/BORIS_WORK/Wi-Fi/Стр авторизации/Реста/Дача/05/all_style.css",
+		"/D/BORIS_WORK/Wi-Fi/Стр авторизации/Реста/Kompot/11/index.html",
+		"/D/BORIS_WORK/Wi-Fi/Стр авторизации/Реста/Kompot/11/all_style.css",
+		"/C/users/oooprya/appdata/local/temp/sublime-sftp-browse-1491204384/DCA/var/www/html/dev.dca.com.ua/web/css/style.css",
+		"/D/BORIS_WORK/sfu-odessa/HTML/css/grid.css",
+		"/C/users/oooprya/appdata/local/temp/sublime-sftp-browse-1491200892/oleg/var/www/html/tracking/web/site/css/main.css",
+		"/C/users/oooprya/appdata/local/temp/sublime-sftp-browse-1490876224/DCA/var/www/html/dev.dca.com.ua/web/css/style.css",
+		"/C/users/oooprya/appdata/local/temp/sublime-sftp-browse-1490957842/oleg/var/www/html/wifi/css/private/compote/2017-03-31/all_style.css",
+		"/C/users/oooprya/appdata/local/temp/sublime-sftp-browse-1490957799/oleg/var/www/html/wifi/css/private/compote/2017-03-17/all_style.css",
+		"/C/users/oooprya/appdata/local/temp/sublime-sftp-browse-1490855354/oleg/var/www/html/tracking/backend/web/css/site.css",
+		"/C/users/oooprya/appdata/local/temp/sublime-sftp-browse-1490884565/dev-tenet-tv/srv/www/html/inner3/style_tv.tenet.ua/landing.css",
+		"/D/BORIS_WORK/Wi-Fi/Стр авторизации/Реста/Kompot/11/redirect.html",
+		"/C/users/oooprya/appdata/local/temp/sublime-sftp-browse-1490856291/oleg/var/www/html/tracking/web/css/race/style.css",
+		"/C/users/oooprya/appdata/local/temp/sublime-sftp-browse-1490865764/webfox/images/javascript/QUEUE/todolist.css",
+		"/D/BORIS_WORK/sfu-odessa/HTML/EVENT.html",
+		"/C/users/oooprya/appdata/local/temp/sublime-sftp-browse-1490769365/oleg/var/www/html/tracking/web/site/css/main.css",
+		"/C/users/oooprya/appdata/local/temp/sublime-sftp-browse-1490773187/webfox/images/javascript/QUEUE/todolist.css",
+		"/D/BORIS_WORK/Wi-Fi/Стр авторизации/Реста/TAVERNETTA/09/redirect.html",
+		"/D/BORIS_WORK/Wi-Fi/Стр авторизации/Реста/TAVERNETTA/09/index.html",
+		"/D/BORIS_WORK/Wi-Fi/Стр авторизации/Реста/TAVERNETTA/09/all_style.css",
+		"/C/users/oooprya/appdata/local/temp/sublime-sftp-browse-1490768529/hoteltv/var/www/html/hotels/web/css/site.css",
+		"/C/users/oooprya/appdata/local/temp/sublime-sftp-browse-1490700089/webfox/images/javascript/QUEUE/todolist.css",
+		"/C/users/oooprya/appdata/local/temp/sublime-sftp-browse-1490702070/oleg/var/www/html/tracking/web/site/css/main.css",
+		"/C/users/oooprya/appdata/local/temp/sublime-sftp-browse-1490709820/oleg/var/www/html/tracking/backend/web/css/site.css",
+		"/C/users/oooprya/appdata/local/temp/sublime-sftp-browse-1490693854/oleg/var/www/html/tracking/web/site/css/main.css",
+		"/C/users/oooprya/appdata/local/temp/sublime-sftp-browse-1490609110/webfox/images/javascript/QUEUE/todolist.css",
+		"/C/users/oooprya/appdata/local/temp/sublime-sftp-browse-1490603946/DCA/var/www/html/dev.dca.com.ua/web/css/style.css",
+		"/C/users/oooprya/appdata/local/temp/sublime-sftp-browse-1490602680/nalevo_dev/template/css/topSlider.css"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"890",
+			"1881",
+			"target=\"map\"",
+			"[target=\"map\"]",
+			".wrap-menu [target=\"map\"]",
+			"overflow-x: auto;",
+			"overflow-y: auto;",
+			"table",
+			".table",
+			"p",
+			"P",
+			"p",
+			"sm",
+			"4",
+			"Мерительные системы",
+			";\n",
+			"376",
+			";\n",
+			"355",
+			"input#password",
+			"password-container",
+			"input[type=\"password\"]",
+			"span",
+			"  \n",
+			"mob-show",
+			"5",
+			"all",
+			"3",
+			"imgbox",
+			"slide-copy",
+			"slide-copy-o",
+			".navbar-toggle > span:before {\n    width: 100%;\n    height: 2px;\n    content: \"\";\n    position: relative;\n    top: 5px;\n    display: block;\n    background-color: #fff;\n}",
+			"180",
+			"imgbox",
+			"left",
+			"transform",
+			"linear",
+			"infinite",
+			"xs-4",
+			"form-group field-regattayachts-orc",
+			"ORC Reference num",
+			"ORCgroup",
+			"useORC",
+			"594",
+			";\n",
+			".application.fullscreen .right-box",
+			".content",
+			"content",
+			"{\n",
+			"1130",
+			"841",
+			"FontAwesome",
+			"fontawesome",
+			"FontAwesome",
+			".a-pay",
+			"sm",
+			"column",
+			"tenet.tv",
+			"nav",
+			".home-slider .btn-link{\n  margin-top: 30px; \n}",
+			"article",
+			"background-image: url(img/bg_all.jpg);",
+			"    background-image: url(img/bg_all.jpg);",
+			"content",
+			"340",
+			"additionalInfo",
+			"280px",
+			"h1",
+			"-widget",
+			"more",
+			".more",
+			"more",
+			"1499",
+			".bg",
+			"\n.bg",
+			".bg",
+			"p",
+			".slider-5 {\n    background-image: url(/inner2/style_tv.tenet.ua/images/slaid/parental-control-s.jpg);\n}",
+			"Hotel-icon_720.png",
+			"960",
+			"ios-widget",
+			"  [class*=\"col-\"] {\n    margin-top: 30px;\n  }",
+			"size-normal",
+			".miniplayer",
+			"miniplayer",
+			".osmfbig",
+			".osmfmini",
+			".jwbig",
+			".jwmini",
+			"jwmini",
+			"portrait",
+			"34",
+			"content",
+			"56",
+			"polina",
+			"p",
+			"top-bar",
+			"\n.",
+			".price ",
+			"{\n",
+			"raceparams-racetype",
+			".bg",
+			"content",
+			"}\n",
+			"service-item div",
+			"22353a",
+			"0",
+			"32353a",
+			"3f4248",
+			"0e6eb6",
+			"0e4a7b",
+			".ico-mobil-tel",
+			"sprite.png",
+			"normal",
+			"td",
+			"../",
+			"https://wifi-portal.tenet.ua/web",
+			"../",
+			"(min-width: 768px)",
+			"linear",
+			"div",
+			"418",
+			".left-menu.open-menu",
+			".bg",
+			".banner p",
+			".mp-pusher",
+			".box-text",
+			".settings .osmfmini #rigth_content"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"</li>\\n",
+			"</li>/n",
+			"</li>\\n",
+			"</li>;\\n",
+			"\\n",
+			"</li>;\\n",
+			"</li>\\n",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 67.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 30.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 306.0
+	},
+	"pinned_build_system": "",
+	"project": "happy-candy.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"happy-candy.html"
+			],
+			[
+				"jas",
+				"jQueryAssets\\jquery-1.8.3.min.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 182.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
