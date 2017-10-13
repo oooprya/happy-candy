@@ -1,16 +1,3 @@
-//timer
-/*function timer(){
- var obj = document.getElementById('timer_inp');
- obj.innerHTML--;
- if(obj.innerHTML == 0){
- 	obj.innerHTML = "Вы проиграли";
- setTimeout(function(){},1000);}
- else {
- 	setTimeout(timer,1000);
- }
-}
-setTimeout(timer,1000);
-*/
 var answerRadio = '';
 var namberQuest = 0;
 var limit = 3;
@@ -30,7 +17,6 @@ function nextQuestion(){
 		strHtml += '<div class="fl-l col-sm-6"> <input type="radio" value="'+i+'" onclick="check('+i+');" name="r" id="sub_'+i+'" /><label for="sub_'+i+'">'+j+'</label></div>';	
 	}
 	rBlock.innerHTML = strHtml +'</div>';
-	//initBtnNext();
 }
 function nextQuest() {
 if (!endQuest()) {
@@ -61,7 +47,6 @@ function endQuest(){
 	} return true;
 	console.log(happyArray.length-1, namberQuest);
 }
-
 var happyArray = [
 	    {
 		'question' : ['Сколько пальцев на руках у человека?'],
@@ -89,7 +74,6 @@ var happyArray = [
 	  	'answerRight' : ['2']	
 	  	}
 ];
-
 function randomInteger() {
 	var randSumm = [];
     var rand = 0;
@@ -99,7 +83,6 @@ function randomInteger() {
     	if (randSumm.indexOf(rand)) {
     		randSumm.push(rand);
     	}
-    	
     }
     console.log('randSumm: '+randSumm);
     return;
