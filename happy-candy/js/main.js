@@ -1,22 +1,25 @@
 var answerRadio = '';
-var namberQuest = 0;
+var namberQuest;
 var limit = 3;
 var winTitle = document.getElementById('win-result');
 var rBlock = document.getElementById('questBlock');
 var summ = 0;
-
+var randSumm = [];
 function start(){
 nextQuestion();	
 winTitle.innerHTML = '';
 }
 function nextQuestion(){
+	//Выбираем из массива сгенерированные 3 в числа
+	for (var i = 0; i < randSumm.length; i++) {
+	namberQuest = i;
 	var strHtml = '<h2>'+happyArray[namberQuest]["question"][0]+'</h2><div class="wrap-radio" >';
-
 	for (var i = 0; i < happyArray[namberQuest]["answer"].length; i++) {
 		j = happyArray[namberQuest]["answer"][i];
 		strHtml += '<div class="fl-l col-sm-6"> <input type="radio" value="'+i+'" onclick="check('+i+');" name="r" id="sub_'+i+'" /><label for="sub_'+i+'">'+j+'</label></div>';	
 	}
 	rBlock.innerHTML = strHtml +'</div>';
+	}
 }
 function nextQuest() {
 if (!endQuest()) {
@@ -75,16 +78,24 @@ var happyArray = [
 	  	}
 ];
 function randomInteger() {
-	var randSumm = [];
     var rand = 0;
-    for (var i = 0;  i < limit; i++) {
+    var flag = 0;
+ while (randSumm.length<limit) {
     	rand = Math.floor((Math.random() * happyArray.length) +1);
-    	console.log(rand);
-    	if (randSumm.indexOf(rand)) {
+    	for (var i = 0; i < randSumm.length; i++) {
+    		if (randSumm[i] == rand) {
+    			flag = 1;
+    		}
+    	}
+    	if (flag != 1) {
     		randSumm.push(rand);
     	}
+    	flag = 0;
+    	
+    	console.log(randSumm.length, rand, i, randSumm.length, randSumm);
+    	i++;
     }
     console.log('randSumm: '+randSumm);
-    return;
+    return randSumm;
 }
 randomInteger();

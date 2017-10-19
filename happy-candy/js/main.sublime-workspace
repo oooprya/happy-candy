@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"tr",
+				"transparent"
+			],
+			[
 				"no",
 				"none"
 			],
@@ -194,10 +198,6 @@
 			[
 				"tra",
 				"transition-property"
-			],
-			[
-				"tr",
-				"trsde\ttransition-delay: ${1:time};"
 			],
 			[
 				"fo",
@@ -431,24 +431,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "happy-candy.html",
-			"settings":
-			{
-				"buffer_size": 450,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "js/main.js",
-			"settings":
-			{
-				"buffer_size": 3362,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -458,9 +440,17 @@
 	"command_palette":
 	{
 		"height": 392.0,
-		"last_filter": "",
+		"last_filter": "s",
 		"selected_items":
 		[
+			[
+				"s",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"sft",
+				"SFTP: Browse Remote…"
+			],
 			[
 				"sf",
 				"SFTP: Browse Remote…"
@@ -516,10 +506,6 @@
 			[
 				"po",
 				"Package Control: Install Package"
-			],
-			[
-				"s",
-				"SFTP: Browse Remote…"
 			],
 			[
 				"",
@@ -589,13 +575,18 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
-	"expanded_folders":
-	[
-		"/D/GitHub/happy-candy/happy-candy",
-		"/D/GitHub/happy-candy/happy-candy/js"
-	],
 	"file_history":
 	[
+		"/C/users/oooprya/appdata/local/temp/sublime-sftp-browse-1508318283/sail-races/var/www/html/web/site/css/event.css",
+		"/C/users/oooprya/appdata/local/temp/sublime-sftp-browse-1508310690/oleg/var/www/html/trackingDEV/web/site/css/event.css",
+		"/C/users/oooprya/appdata/local/temp/sublime-sftp-browse-1508324478/TENET-all22/srv/www/html/iptv/all33/style_tv.tenet.ua/new_css/style_960.css",
+		"/C/users/oooprya/appdata/local/temp/sublime-sftp-browse-1508308015/oleg/var/www/html/trackingDEV/web/site/css/main.css",
+		"/C/users/oooprya/appdata/local/temp/sublime-sftp-browse-1508324412/TENET-all22/srv/www/html/iptv/all11/style_tv.tenet.ua/new_css/style_960.css",
+		"/C/users/oooprya/appdata/local/temp/sublime-sftp-browse-1508324442/TENET-all22/srv/www/html/iptv/all11/style_tv.tenet.ua/new_css/style_720.css",
+		"/C/users/oooprya/appdata/local/temp/sublime-sftp-browse-1508252189/TENET-all22/srv/www/html/iptv/all33/style_tv.tenet.ua/new_css/style_960.css",
+		"/C/users/oooprya/appdata/local/temp/sublime-sftp-browse-1508250804/sail-races/var/www/html/web/site/css/event.css",
+		"/D/GitHub/happy-candy/happy-candy/js/main.js",
+		"/D/GitHub/happy-candy/happy-candy/happy-candy.html",
 		"/D/BORIS_WORK/Wi-Fi/Стр авторизации/Цитрус/02/redirect.html",
 		"/D/BORIS_WORK/Wi-Fi/Стр авторизации/Цитрус/02/all_style.css",
 		"/D/BORIS_WORK/Wi-Fi/Стр авторизации/Цитрус/02/index.html",
@@ -713,17 +704,7 @@
 		"/D/BORIS_WORK/sfu-odessa/HTML/css/grid.css",
 		"/C/users/oooprya/appdata/local/temp/sublime-sftp-browse-1491200892/oleg/var/www/html/tracking/web/site/css/main.css",
 		"/C/users/oooprya/appdata/local/temp/sublime-sftp-browse-1490876224/DCA/var/www/html/dev.dca.com.ua/web/css/style.css",
-		"/C/users/oooprya/appdata/local/temp/sublime-sftp-browse-1490957842/oleg/var/www/html/wifi/css/private/compote/2017-03-31/all_style.css",
-		"/C/users/oooprya/appdata/local/temp/sublime-sftp-browse-1490957799/oleg/var/www/html/wifi/css/private/compote/2017-03-17/all_style.css",
-		"/C/users/oooprya/appdata/local/temp/sublime-sftp-browse-1490855354/oleg/var/www/html/tracking/backend/web/css/site.css",
-		"/C/users/oooprya/appdata/local/temp/sublime-sftp-browse-1490884565/dev-tenet-tv/srv/www/html/inner3/style_tv.tenet.ua/landing.css",
-		"/D/BORIS_WORK/Wi-Fi/Стр авторизации/Реста/Kompot/11/redirect.html",
-		"/C/users/oooprya/appdata/local/temp/sublime-sftp-browse-1490856291/oleg/var/www/html/tracking/web/css/race/style.css",
-		"/C/users/oooprya/appdata/local/temp/sublime-sftp-browse-1490865764/webfox/images/javascript/QUEUE/todolist.css",
-		"/D/BORIS_WORK/sfu-odessa/HTML/EVENT.html",
-		"/C/users/oooprya/appdata/local/temp/sublime-sftp-browse-1490769365/oleg/var/www/html/tracking/web/site/css/main.css",
-		"/C/users/oooprya/appdata/local/temp/sublime-sftp-browse-1490773187/webfox/images/javascript/QUEUE/todolist.css",
-		"/D/BORIS_WORK/Wi-Fi/Стр авторизации/Реста/TAVERNETTA/09/redirect.html"
+		"/C/users/oooprya/appdata/local/temp/sublime-sftp-browse-1490957842/oleg/var/www/html/wifi/css/private/compote/2017-03-31/all_style.css"
 	],
 	"find":
 	{
@@ -741,6 +722,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"{\n",
 			"eventTabs",
 			"section",
 			"890",
@@ -867,8 +849,7 @@
 			"418",
 			".left-menu.open-menu",
 			".bg",
-			".banner p",
-			".mp-pusher"
+			".banner p"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -894,255 +875,8 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "happy-candy.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 450,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								450,
-								450
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										445,
-										449
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/tag.png",
-										"brackethighlighter.default"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										17,
-										21
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content"
-							],
-							"bs_sintax": "html",
-							"buffer_scroll_name": "1c507558",
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "js/main.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3362,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								815,
-								815
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										817,
-										818
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/curly_bracket.png",
-										"brackethighlighter.default"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										372,
-										373
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content"
-							],
-							"bs_sintax": "javascriptnext",
-							"buffer_scroll_name": "64fe7543",
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"spell_check": false,
-							"synced": false,
-							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -1181,28 +915,12 @@
 	{
 		"height": 0.0
 	},
-	"output.git-commit":
-	{
-		"height": 144.0
-	},
-	"output.git-pull":
-	{
-		"height": 144.0
-	},
-	"output.git-push":
-	{
-		"height": 144.0
-	},
 	"output.sftp":
 	{
 		"height": 34.0
 	},
-	"output.unsaved_changes":
-	{
-		"height": 306.0
-	},
 	"pinned_build_system": "",
-	"project": "happy-candy.sublime-project",
+	"project": "main.sublime-project",
 	"replace":
 	{
 		"height": 56.0
@@ -1255,6 +973,5 @@
 	"status_bar_visible": true,
 	"template_settings":
 	{
-		"max_columns": 2
 	}
 }
