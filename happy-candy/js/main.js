@@ -1,3 +1,4 @@
+// commit v2.01
 var answerRadio = '';
 var namberQuest;
 var limit = 3;
@@ -35,7 +36,7 @@ happyArray = [
 	  	}
 ];
 namberQuest = 0;
-nextQuestion();	
+nextQuestion();
 winTitle.innerHTML = '';
 }
 function nextQuestion(){
@@ -54,7 +55,7 @@ function nextQuest() {
 if (happyArray.length > 0) {
 		happyArray.splice(namberQuest, 1);
 		console.log('удален индекс №: ' +namberQuest);
-	}	
+	}
 if (happyArray.length == 0) {
 		winTitle.innerHTML = '<div class="center-result"><div class="t-cell"><div class="win-bg"><h1>Тест пройден</h1> <div>Вы набрали <h2>'+summ+'</h2>баллов </div><div class="btnGreen" onclick="start()">Заново</div></div></div></div>';
 		return rBlock.innerHTML =  '';
