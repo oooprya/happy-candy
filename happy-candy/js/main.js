@@ -78,7 +78,7 @@ function check(i) {
     radioDis[i].disabled = true;
 	}
 }
-/*MYYYYY CHANGES*/
+/*MYYYYY CHANGESрпрртпоьтпт*/
 /*function randomInteger() {
     var rand = 0;
     var flag = 0;
